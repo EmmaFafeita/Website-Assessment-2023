@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+
+
+body {
+    background-color: #82d9dd;
+    background-image: url('img/background.png');
+    background-position:center 280px, left top;
+    background-repeat: repeat;
+    background-size:2000px, auto;
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+
+#nav {
+    background-color: rgb(161, 129, 188);
+    border-bottom: 2px dashed rgb(0, 0, 0);
+    color: white;
+    font-weight:bold;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 30px;
+
+
+}
+
+
+
+
+
+
+.links {
+    color: black;
+    font-size: 15px;
+    text-decoration: double;
+}
+
+
+
+
+.banner {
+    background-color: #82d9dd;
+    padding: 0px 0;
+    text-align: center;
+    padding-bottom: 0;
+    }
+
+
+.banner img {
+    max-width: auto;
+    width: 100%;
+}
+
+
+   
+
+
+#Animals {
+    background-color: rgba(205,240,225,0.9);
+    color: #378;
+    margin-top: auto;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    max-width: 2000px;
+    width:100%;
+    font-size: 15px;
+    height:200px;
+}
+
+
+.Animals {
+    background-color: rgba(205,240,225,0.9);
+    color: #378;
+}
+
+
+#milo {
+    background-color: rgba(205,240,225,0.9);
+    color: #378;
+    margin-top: auto;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    max-width: 2000px;
+    width:100%;
+    font-size: 15px;
+    height:100px;
+}
+
+
+.milo {
+    background-color: rgba(205,240,225,0.9);
+    color: #378;
+}
+
+
+
+
+#nature {
+    background-color: rgba(107, 233, 224, 0.9);
+    color: #378;
+    margin: auto;
+    padding-top:auto;
+    height: 150px;
+}
+
+
+.nature {
+    background-color: rgba(107, 233, 224, 0.9);
+    color: #378;
+}
+
+
+
+
+#snow {
+    background-color: rgba(104, 144, 218, 0.731);
+    color: rgb(28, 40, 173);
+    margin-top:auto;
+    padding-top:auto;
+    text-align:left;
+    height: 170px;
+    font-weight: bold;
+    margin-right: auto;
+}
+
+
+.snow {
+    background-color: rgba(104, 144, 218, 0.731);
+    color: rgb(28, 40, 173);
+}
+
+
+
+
+#sun {
+    background-color: rgba(201, 125, 224, 0.909);
+    color: rgb(70, 19, 102);
+    margin-top:auto;
+    padding-top:auto;
+    height: 150px;
+    font-weight: bold;
+    text-align:left;
+    margin-right: auto;
+}
+
+
+.sun {
+    background-color: rgba(201, 125, 224, 0.909);
+    color: rgb(70, 19, 102);
+}
+
+
+
+
+#other {
+    background-color: rgba(139, 237, 252, 0.886);
+    color: rgb(32, 106, 125);
+    padding-bottom: 40px;
+    padding-top: auto;
+    height:100px;
+    text-align: left;
+}
+
+
+.other {
+    background-color: rgba(139, 237, 252, 0.886);
+    color: rgb(32, 106, 125);
+}
+
+
+h1 {
+    font-size: 3em;
+    text-align:left;
+}
+
+
+
+
+p {
+    font-size: 1em;
+    font-weight: bold;
+    text-align: left;
+}
+
+
+
+
+h2 {
+    font-size: 1.5em;
+    text-align: left;
+    text-decoration: underline;
+}
+
+
+
+
+hr {
+    border-style:dashed;
+   border-spacing: 20em;
+}
+
+
