@@ -55,7 +55,19 @@ body {
 
 
    
-
+#about {
+    background-color: rgba(161, 129, 188, 0.861);
+    color: white;
+    margin-top: auto;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    max-width: 2000px;
+    width:100%;
+    font-size: 15px;
+    height:300px;
+    border-top: 2px dashed rgb(0, 0, 0);
+    border-bottom: 2px dashed rgb(0, 0, 0);
+}
 
 #Animals {
     background-color: rgba(205,240,225,0.9);
@@ -235,15 +247,19 @@ hr {
 }
 
 .footer {
-    background-color: #82d9dd;
-    padding: 0px 0;
-    text-align: center;
-    padding-bottom: 0;
-    }
+    background-color: rgb(161, 129, 188);
+    border-top: 2px dashed rgb(0, 0, 0);
+    color: white;
 
-
-.footer img {
-    max-width: auto;
-    width: 100%;
-    height: 500px;
 }
+
+.text {
+    font-weight:bold;
+    padding: 20px 0;
+    text-align:left;
+    font-size: 20px;
+    height:50px;
+    margin-left: 200px;
+}
+
+
