@@ -111,8 +111,41 @@ body {
     color: #378;
 }
 
+#plant {
+    background-color: rgba(107, 233, 224, 0.9);
+    color: #378;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    max-width: 2000px;
+    width:100%;
+    font-size: 15px;
+    height:100px;
+    margin: auto;
+}
 
 
+.plant {
+    background-color: rgba(107, 233, 224, 0.9);
+    color: #378;
+}
+
+#mount {
+    background-color: rgba(107, 233, 224, 0.9);
+    color: #378;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    max-width: 2000px;
+    width:100%;
+    font-size: 15px;
+    height:100px;
+    margin: auto;
+}
+
+
+.mount {
+    background-color: rgba(107, 233, 224, 0.9);
+    color: #378;
+}
 
 #snow {
     background-color: rgba(104, 144, 218, 0.731);
@@ -180,7 +213,7 @@ h1 {
 
 p {
     font-size: 1em;
-    font-weight: bold;
+
     text-align: left;
 }
 
