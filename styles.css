@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
-
+@media screen and (max-width:480px) {
+    body{
+        background-color: #82d9dd;
+    }
+    
+}
 
 body {
     background-color: #82d9dd;
