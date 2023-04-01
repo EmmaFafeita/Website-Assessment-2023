@@ -64,14 +64,14 @@ body {
     max-width: 2000px;
     width:100%;
     font-size: 15px;
-    height:300px;
+    height:500px;
     border-top: 2px dashed rgb(0, 0, 0);
     border-bottom: 2px dashed rgb(0, 0, 0);
 }
 
 #Animals {
     background-color: rgba(205,240,225,0.9);
-    color: #378;
+    color: black;
     margin-top: auto;
     padding-bottom: 40px;
     padding-top: 20px;
@@ -84,13 +84,13 @@ body {
 
 .Animals {
     background-color: rgba(205,240,225,0.9);
-    color: #378;
+    color: black;
 }
 
 
 #milo {
     background-color: rgba(205,240,225,0.9);
-    color: #378;
+    color: black;
     margin-top: auto;
     padding-bottom: 40px;
     padding-top: 20px;
@@ -103,7 +103,7 @@ body {
 
 .milo {
     background-color: rgba(205,240,225,0.9);
-    color: #378;
+    color: black;
 }
 
 
@@ -111,7 +111,7 @@ body {
 
 #nature {
     background-color:#ffbabbda;
-    color: #378;
+    color: black;
     margin: auto;
     padding-top:auto;
     height: 150px;
@@ -120,12 +120,12 @@ body {
 
 .nature {
     background-color: #ffbabbda;
-    color: #378;
+    color: black;
 }
 
 #plant {
     background-color: #ffbabbda;
-    color: #378;
+    color: black;
     padding-bottom: 40px;
     padding-top: 20px;
     max-width: 2000px;
@@ -138,12 +138,12 @@ body {
 
 .plant {
     background-color: #ffbabbda;
-    color: #378;
+    color: black;
 }
 
 #mount {
     background-color: #ffbabbda;
-    color: #378;
+    color:black;
     padding-bottom: 40px;
     padding-top: 20px;
     max-width: 2000px;
@@ -156,12 +156,12 @@ body {
 
 .mount {
     background-color: #ffbabbda;
-    color: #378;
+    color: black;
 }
 
 #snow {
     background-color: #008c9ed2;
-    color: rgb(28, 40, 173);
+    color: black;
     margin-top:auto;
     padding-top:auto;
     text-align:left;
@@ -173,7 +173,7 @@ body {
 
 .snow {
     background-color: #008c9ed2;
-    color: rgb(28, 40, 173);
+    color: black;
 }
 
 
@@ -181,7 +181,7 @@ body {
 
 #sun {
     background-color: #cc6c9ec4;
-    color: rgb(70, 19, 102);
+    color: black;
     margin-top:auto;
     padding-top:auto;
     height: 150px;
@@ -193,7 +193,7 @@ body {
 
 .sun {
     background-color:  #cc6c9ec4;
-    color: rgb(70, 19, 102);
+    color: black;
 }
 
 
@@ -201,7 +201,7 @@ body {
 
 #other {
     background-color: #4ebdccd3;
-    color: rgb(32, 106, 125);
+    color: black;
     padding-bottom: 40px;
     padding-top: auto;
     height:100px;
@@ -211,7 +211,7 @@ body {
 
 .other {
     background-color: #4ebdccd3;
-    color: rgb(32, 106, 125);
+    color:black;
 }
 
 
@@ -256,10 +256,10 @@ hr {
 .text {
     font-weight:bold;
     padding: 20px 0;
-    text-align:left;
+    text-align:center;
     font-size: 20px;
-    height:50px;
-    margin-left: 200px;
+    height:30px;
+
 }
 
 
